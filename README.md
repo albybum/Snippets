@@ -1,5 +1,5 @@
 # Snippets
-Snippets of code to remember and related things to keep
+Snippets of code to remember and related things to keep.
 
 
 Code Samples
